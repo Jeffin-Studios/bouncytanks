@@ -1,0 +1,7 @@
+"name": "bouncytank",
+"version": "1.0.0",
+"dependencies": {
+  "express": "expressjs/express",
+  "socketio": "socketio/socket"
+}
+}
